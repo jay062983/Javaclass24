@@ -1,0 +1,8 @@
+Abstraction; Abstract is the keyword
+Abstraction is the process of hiding implementation details and showing only the
+functionality to user.
+it reduces the complexity.
+2) It allows th end user to focus on using the features instead of worrying about implementation.
+Syntax:
+we need to declare the methods as 'abstract'
+we also need to write the 'abstract' keyword with the class as well.
